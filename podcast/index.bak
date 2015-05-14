@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+	<channel>
+		<title>d.Construct 2006</title>
+		<link>http://2006.dconstruct.org/podcast/</link>
+		<language>en</language>
+		<pubDate>Sun, 17 Sep 2006 21:09:03 +0000</pubDate>
+		<lastBuildDate>Sun, 17 Sep 2006 21:09:03 +0000</lastBuildDate>
+		<itunes:subtitle>The podcast of the conference</itunes:subtitle>
+		<itunes:author>Clearleft</itunes:author>
+		<itunes:summary>d.Construct is an affordable, one-day conference aimed at those building the latest generation of web-based applications. The event discusses how new technology is transforming the web from a document delivery system into an application platform.
+
+The music used in this podcast is Sychophantastic by Brighton band, Tailspin.</itunes:summary>
+		<description>d.Construct is an affordable, one-day conference aimed at those building the latest generation of web-based applications. The event discusses how new technology is transforming the web from a document delivery system into an application platform.
+
+The music used in this podcast is Sychophantastic by Brighton band, Tailspin.</description>
+		<itunes:owner>
+			<itunes:name>Jeremy Keith</itunes:name>
+			<itunes:email>jeremy@adactio.com</itunes:email>
+		</itunes:owner>
+		<itunes:image href="http://2006.dconstruct.org/buttons/images/button-200x200b.gif" />
+		<itunes:category text="Technology">
+			<itunes:category text="Tech News" />
+		</itunes:category>
+		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>Paul Hammond and Simon Willison - Web Services for Fun and Profit</title>
+			<itunes:author>Clearleft</itunes:author>
+			<itunes:subtitle>Paul Hammond and Simon Willison's presentation in full</itunes:subtitle>
+			<itunes:summary>Over the last year the Yahoo! Developer Network has opened up dozens of sites and services to external software developers, with APIs for Yahoo! Search, Flickr, del.icio.us, Yahoo! Maps, and many others. More recently Yahoo! has started adopting microformats on Yahoo! Local and Upcoming.org.	Simon and Paul peek behind the Yahoo! firewall, showing how these services are created and discussing some of the lessons learned in releasing them to the public. They also show how a company can make use of web services internally to solve real-world technical problems, encourage innovation, and make work more enjoyable.</itunes:summary>
+			<description><![CDATA[Over the last year the Yahoo! Developer Network has opened up dozens of sites and services to external software developers, with APIs for Yahoo! Search, Flickr, del.icio.us, Yahoo! Maps, and many others. More recently Yahoo! has started adopting microformats on Yahoo! Local and Upcoming.org.	Simon and Paul peek behind the Yahoo! firewall, showing how these services are created and discussing some of the lessons learned in releasing them to the public. They also show how a company can make use of web services internally to solve real-world technical problems, encourage innovation, and make work more enjoyable.]]></description>
+			<pubDate>Thu, 28 Sep 2006 17:10:00 +0000</pubDate>
+			<enclosure url="http://2006.dconstruct.org/podcast/HammondWillison.mp3" length="20086488" type="audio/mpeg"/>
+			<guid isPermaLink="false">hammond-willison-web-services</guid>
+			<itunes:duration>41:46</itunes:duration>
+			<itunes:keywords>brighton, dconstruct, paul hammond, simon willison, yahoo</itunes:keywords>
+		</item>
+		<item>
+			<title>Jeff Barr - Web Services: Fuelling Innovation and Entrepreneurship</title>
+			<itunes:author>Clearleft</itunes:author>
+			<itunes:subtitle>Jeff Barr's presentation in full</itunes:subtitle>
+			<itunes:summary>Web services are changing the fundamental nature of the web, as more and more companies offer their data for free. Rather than spending millions of dollars on complicated systems, entrepreneurs can tap into the existing services of companies like Amazon, and create innovative new enterprises for a fraction of the cost; enterprises that wouldn't have been economical otherwise.	In this session, Amazon Web Services Evangelist, Jeff Barr, discusses the power of open APIs and how they are helping to fuel innovation and entrepreneurship. Jeff discusses Amazon's motivation for building AWS and some of the design decisions (such as their use of XSLT) they made along the way. Jeff touches on some of Amazon's current offerings such as S3 and the Mechanical Turk, before showing demonstrations of how these services are being used in the wild.</itunes:summary>
+			<description><![CDATA[Web services are changing the fundamental nature of the web, as more and more companies offer their data for free. Rather than spending millions of dollars on complicated systems, entrepreneurs can tap into the existing services of companies like Amazon, and create innovative new enterprises for a fraction of the cost; enterprises that wouldn't have been economical otherwise.	In this session, Amazon Web Services Evangelist, Jeff Barr, discusses the power of open APIs and how they are helping to fuel innovation and entrepreneurship. Jeff discusses Amazon's motivation for building AWS and some of the design decisions (such as their use of XSLT) they made along the way. Jeff touches on some of Amazon's current offerings such as S3 and the Mechanical Turk, before showing demonstrations of how these services are being used in the wild.]]></description>
+			<pubDate>Sun, 17 Sep 2006 21:09:03 +0000</pubDate>
+			<enclosure url="http://2006.dconstruct.org/podcast/jeffbarr.mp3" length="22630489" type="audio/mpeg"/>
+			<guid isPermaLink="false">jeff-barr-web-services</guid>
+			<itunes:duration>47:04</itunes:duration>
+			<itunes:keywords>brighton, dconstruct, jeffbarr, amazon</itunes:keywords>
+		</item>
+		<item>
+			<title>The day before</title>
+			<itunes:author>Clearleft</itunes:author>
+			<itunes:subtitle>T-1. All systems are go.</itunes:subtitle>
+			<itunes:summary>A quick chat with Andy Budd and the Clearleft office dalek. Plus some more Odeo messages.</itunes:summary>
+			<description>A quick chat with Andy Budd and the Clearleft office dalek. Plus some more Odeo messages.</description>
+			<enclosure url="http://www.archive.org/download/ClearleftThedaybefore_0/thedaybefore.mp3" length="9213672" type="audio/mpeg" />
+			<guid>http://www.archive.org/details/ClearleftThedaybefore_0</guid>
+			<pubDate>Thu, 07 Sep 2006 17:00:00 GMT</pubDate>
+			<itunes:duration>9:34</itunes:duration>
+			<itunes:keywords>brighton, dconstruct, andybudd, dalek</itunes:keywords>
+		</item>
+		<item>
+			<title>OpenStreetMap</title>
+			<itunes:author>Clearleft</itunes:author>
+			<itunes:subtitle>Map Brighton the day after d.Construct.</itunes:subtitle>
+			<itunes:summary>Mikel Maron from OpenStreetMap gives the lowdown on the workshop taking place the day after d.Construct. Also, I finally got some Odeo messages.</itunes:summary>
+			<description>Mikel Maron from OpenStreetMap gives the lowdown on the workshop taking place the day after d.Construct. Also, I finally got some Odeo messages.</description>
+			<enclosure url="http://www.archive.org/download/ClearleftOpenStreetMap/openstreetmap.mp3" length="10173305" type="audio/mpeg" />
+			<guid>http://www.archive.org/details/ClearleftOpenStreetMap</guid>
+			<pubDate>Mon, 04 Sep 2006 22:00:00 GMT</pubDate>
+			<itunes:duration>10:34</itunes:duration>
+			<itunes:keywords>openstreetmap, brighton, dconstruct, mapping</itunes:keywords>
+		</item>
+		<item>
+			<title>Barcamp</title>
+			<itunes:author>Clearleft</itunes:author>
+			<itunes:subtitle>London calling. Gather the geeks.</itunes:subtitle>
+			<itunes:summary>Barcamp London is taking place at the offices of Yahoo! I took some time to harrass the attendees for some soundbites.</itunes:summary>
+			<description>Barcamp London is taking place at the offices of Yahoo! I took some time to harrass the attendees for some soundbites.</description>
+			<enclosure url="http://www.archive.org/download/ClearleftBarcamp/barcamp.mp3" length="16687777" type="audio/mpeg" />
+			<guid>http://www.archive.org/details/ClearleftBarcamp</guid>
+			<pubDate>Sat, 02 Sep 2006 20:00:00 GMT</pubDate>
+			<itunes:duration>17:21</itunes:duration>
+			<itunes:keywords>london, barcamp, barcamplondon, barcamplondon06</itunes:keywords>
+		</item>
+		<item>
+			<title>Backnetwork</title>
+			<itunes:author>Clearleft</itunes:author>
+			<itunes:subtitle>A monster mashup with microformats.</itunes:subtitle>
+			<itunes:summary>Glenn Jones from Madgex is back to talk about the wonderful d.Construct Backnetwork. We talk about microformats, APIs, and sharing data.</itunes:summary>
+			<description>Glenn Jones from Madgex is back to talk about the wonderful d.Construct Backnetwork. We talk about microformats, APIs, and sharing data.</description>
+			<enclosure url="http://www.archive.org/download/ClearleftBacknetwork/backnetwork.mp3" length="15533212" type="audio/mpeg" />
+			<guid>http://www.archive.org/details/ClearleftBacknetwork</guid>
+			<pubDate>Wed, 30 Aug 2006 20:00:00 GMT</pubDate>
+			<itunes:duration>16:09</itunes:duration>
+			<itunes:keywords>brighton, dconstruct06, microformats, network, google maps, flickr, network, hcard, xfn, hreview</itunes:keywords>
+		</item>
+		<item>
+			<title>Roundup</title>
+			<itunes:author>Clearleft</itunes:author>
+			<itunes:subtitle>A quick run down of the day's events.</itunes:subtitle>
+			<itunes:summary>Things to do in Brighton when you're a geek. Here's the lowdown on what you can expect at d.Construct 2006.</itunes:summary>
+			<description>Things to do in Brighton when you're a geek. Here's the lowdown on what you can expect at d.Construct 2006.</description>
+			<enclosure url="http://www.archive.org/download/ClearleftRoundup/roundup.mp3" length="11296522" type="audio/mpeg" />
+			<guid>http://www.archive.org/details/ClearleftRoundup</guid>
+			<pubDate>Tue, 22 Aug 2006 16:00:00 GMT</pubDate>
+			<itunes:duration>11:44</itunes:duration>
+			<itunes:keywords>brighton, dconstruct06, conference, party, apis, amazon, yahoo</itunes:keywords>
+		</item>
+		<item>
+			<title>Tom Hume</title>
+			<itunes:author>Clearleft</itunes:author>
+			<itunes:subtitle>Talking about the mobile web.</itunes:subtitle>
+			<itunes:summary>One of last year's speakers discusses the mobile web and APIs.</itunes:summary>
+			<description>One of last year's speakers discusses the mobile web and APIs.</description>
+			<enclosure url="http://www.archive.org/download/ClearleftTomHume/tomhume.mp3" length="10734207" type="audio/mpeg" />
+			<guid>http://www.archive.org/details/ClearleftTomHume</guid>
+			<pubDate>Wed, 16 Aug 2006 13:00:00 GMT</pubDate>
+			<itunes:duration>11:09</itunes:duration>
+			<itunes:keywords>tom hume, mobile, APIs, brighton</itunes:keywords>
+		</item>
+		<item>
+			<title>Snipperoo</title>
+			<itunes:author>Clearleft</itunes:author>
+			<itunes:subtitle>The guys who are organising the d.Construct after-party.</itunes:subtitle>
+			<itunes:summary>Jay Gooby and Ivan Pope talk about their new start-up. More importantly, they spill the beans on the plans for the d.Construct after-party.</itunes:summary>
+			<description>Jay Gooby and Ivan Pope talk about their new start-up. More importantly, they spill the beans on the plans for the d.Construct after-party.</description>
+			<enclosure url="http://www.archive.org/download/ClearleftSnipperoo/snipperoo.mp3" length="13615781" type="audio/mpeg" />
+			<guid>http://www.archive.org/details/ClearleftSnipperoo</guid>
+			<pubDate>Fri, 11 Aug 2006 10:00:00 GMT</pubDate>
+			<itunes:duration>14:09</itunes:duration>
+			<itunes:keywords>snipperoo, widgets, start-up, brighton, party, crazy golf</itunes:keywords>
+		</item>
+		<item>
+			<title>Derek Featherstone</title>
+			<itunes:author>Clearleft</itunes:author>
+			<itunes:subtitle>A chat with the Canadian accessibility expert</itunes:subtitle>
+			<itunes:summary>A transatlantic conversation with Canadian accessibility expert Derek Featherstone. Find out what he'll be talking about at d.Construct 2006.</itunes:summary>
+			<description>A transatlantic conversation with Canadian accessibility expert Derek Featherstone. Find out what he'll be talking about at d.Construct 2006.</description>
+			<enclosure url="http://www.archive.org/download/ClearleftDerekFeatherstone/derekfeatherstone.mp3" length="12493819" type="audio/mpeg" />
+			<guid>http://www.archive.org/details/ClearleftDerekFeatherstone</guid>
+			<pubDate>Sun, 6 Aug 2006 11:00:00 GMT</pubDate>
+			<itunes:duration>12:59</itunes:duration>
+			<itunes:keywords>accessibility, derek featherstone, javascript, design</itunes:keywords>
+		</item>
+		<item>
+			<title>Cameron Adams</title>
+			<itunes:author>Clearleft</itunes:author>
+			<itunes:subtitle>An antipodean take on JavaScript, Ajax, and APIs</itunes:subtitle>
+			<itunes:summary>The Man In Blue talks about his excellent book, the web standards scene in Australia, and the fun you can have with APIs.</itunes:summary>
+			<description>The Man In Blue talks about his excellent book, the web standards scene in Australia, and the fun you can have with APIs.</description>
+			<enclosure url="http://www.archive.org/download/ClearleftCameronAdams/cameronadams.mp3" length="10013227" type="audio/mpeg" />
+			<guid>http://www.archive.org/details/ClearleftCameronAdams</guid>
+			<pubDate>Tue, 1 Aug 2006 23:00:00 GMT</pubDate>
+			<itunes:duration>10:24</itunes:duration>
+			<itunes:keywords>design, cameron adams, javascript, ajax, programming, apis, australia</itunes:keywords>
+		</item>
+		<item>
+			<title>Glenn Jones</title>
+			<itunes:author>Clearleft</itunes:author>
+			<itunes:subtitle>Exploring the local Web community in Brighton</itunes:subtitle>
+			<itunes:summary>Glenn Jones from Madgex software discusses APIs, programming, the Brighton scene, and d.Construct.</itunes:summary>
+			<description>Glenn Jones from Madgex software discusses APIs, programming, the Brighton scene, and d.Construct.</description>
+			<enclosure url="http://www.archive.org/download/ClearleftGlennJones/glennjones.mp3" length="7536188" type="audio/mpeg" />
+			<guid>http://www.archive.org/details/ClearleftGlennJones</guid>
+			<pubDate>Thu, 27 Jul 2006 23:00:00 GMT</pubDate>
+			<itunes:duration>7:49</itunes:duration>
+			<itunes:keywords>design, glenn jones, programming, apis, brighton</itunes:keywords>
+		</item>
+		<item>
+			<title>Jeffrey Veen</title>
+			<itunes:author>Clearleft</itunes:author>
+			<itunes:subtitle>Meet the expert on user-centred design</itunes:subtitle>
+			<itunes:summary>From Webmonkey to Google via Adaptive Path. Jeff Veen charts how the Web has changed and how design needs to change with it.</itunes:summary>
+			<description>From Webmonkey to Google via Adaptive Path. Jeff Veen charts how the Web has changed and how design needs to change with it.</description>
+			<enclosure url="http://www.archive.org/download/ClearleftJeffreyVeen/jeffreyveen.mp3" length="12872485" type="audio/mpeg" />
+			<guid>http://www.archive.org/details/ClearleftJeffreyVeen</guid>
+			<pubDate>Mon, 24 Jul 2006 15:00:00 GMT</pubDate>
+			<itunes:duration>13:22</itunes:duration>
+			<itunes:keywords>design,jeffrey veen, web design, usability</itunes:keywords>
+		</item>
+		<item>
+			<title>Aral Balkan</title>
+			<itunes:author>Clearleft</itunes:author>
+			<itunes:subtitle>Explaining Flex and debunking Flash myths</itunes:subtitle>
+			<itunes:summary>After his triumphant performance at last year's d.Construct, Aral Balkan is back again this year to talk about Flex 2. He's on a mission to debunk some of the myths surrounding Flash.</itunes:summary>
+			<description>After his triumphant performance at last year's d.Construct, Aral Balkan is back again this year to talk about Flex 2. He's on a mission to debunk some of the myths surrounding Flash.</description>
+			<enclosure url="http://www.archive.org/download/ClearleftAralBalkan/aralbalkan.mp3" length="14894608" type="audio/mpeg" />
+			<guid>http://www.archive.org/details/ClearleftAralBalkan</guid>
+			<pubDate>Thu, 20 Jul 2006 17:00:00 GMT</pubDate>
+			<itunes:duration>15:29</itunes:duration>
+			<itunes:keywords>flash, flex, aral balkan, web design, programming</itunes:keywords>
+		</item>
+		<item>
+			<title>WSG London</title>
+			<itunes:author>Clearleft</itunes:author>
+			<itunes:subtitle>A gaggle of geeks gather in London</itunes:subtitle>
+			<itunes:summary>The inaugural London Web Standards Group event went off wonderfully. Andy Budd and Christian Heilmann presented. I took the opportunity to talk to some of the geeks in attendance.</itunes:summary>
+			<description>The inaugural London Web Standards Group event went off wonderfully. Andy Budd and Christian Heilmann presented. I took the opportunity to talk to some of the geeks in attendance.</description>
+			<enclosure url="http://www.archive.org/download/ClearleftWSGLondon/wsglondon.mp3" length="11375939" type="audio/mpeg" />
+			<guid>http://www.archive.org/details/ClearleftWSGLondon</guid>
+			<pubDate>Mon, 17 Jul 2006 23:00:00 GMT</pubDate>
+			<itunes:duration>11:49</itunes:duration>
+			<itunes:keywords>web design, programming, web standards</itunes:keywords>
+		</item>
+		<item>
+			<title>Looking back</title>
+			<itunes:author>Clearleft</itunes:author>
+			<itunes:subtitle>Last year's d.Construct</itunes:subtitle>
+			<itunes:summary>In preparation for d.Construct 2006, here's a brief overview of some of the presentations from d.Construct 2005.</itunes:summary>
+			<description>In preparation for d.Construct 2006, here's a brief overview of some of the presentations from d.Construct 2005.</description>
+			<enclosure url="http://www.archive.org/download/ClearleftLookingback/lookingback.mp3" length="10593391" type="audio/mpeg" />
+			<guid>http://www.archive.org/details/ClearleftLookingback</guid>
+			<pubDate>Thu, 13 Jul 2006 15:00:00 GMT</pubDate>
+			<itunes:duration>11:00</itunes:duration>
+			<itunes:keywords>web design, brighton, programming, javascript, flickr, web 2.0</itunes:keywords>
+		</item>
+	</channel>
+</rss>

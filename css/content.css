@@ -1,0 +1,273 @@
+/* Content Stuff
+=====================*/
+
+
+#sponsors, #partners {
+	list-style: none;
+}
+
+#sponsors li, #partners li {
+	margin: 2em;
+	text-align: center;
+}
+
+#sponsors a, #sponsors img, #partners a, #partners img {
+	border: none;
+}
+
+#partners .net {
+	float: left;
+	margin-right: 0;
+}
+
+#partners .sxsw {
+	float: right;
+	margin-left: 0;
+}
+
+.pingbase {
+	clear: both;
+}
+
+/* Homepage
+=====================*/
+
+/*.feedSignup a {
+	display: block;
+	text-indent: -5000px;
+	width: 287px;
+	height: 44px;
+	background: url(../images/feedSignup.gif) no-repeat;
+	margin: 1em auto;
+	border: none;
+}*/
+
+h3 .newsdate {
+	display: block;
+	font-size: 0.7em;
+	color: #999;
+}
+
+h2 {
+	margin-bottom: 0;
+}
+
+#mainContent .feed {
+	margin-top: 0;
+	font-size: 1.1em;
+	color: #999;
+	line-height: 1;
+	padding-left: 20px;
+	background: url(/images/feed.gif) no-repeat left center;
+}
+
+/* Speakers
+=====================*/
+
+
+#speakers .speaker {
+	margin-bottom: 5em;
+}
+
+#speakers .speaker img,
+.vcard .photo {
+	border: 1px solid #bbb;
+	padding: 2px;
+	margin: 0 10px 0 0;
+	float: left;
+}
+
+#speakers .speaker:after {
+    content: "."; 
+    display: block; 
+    height: 0; 
+    clear: both; 
+    visibility: hidden;
+}
+
+#speakers.speaker {
+	display: inline-block;
+}
+
+/* Hides from IE-mac \*/
+* html #speakers .speaker {height: 1%;}
+#speakers .speaker {display: block;}
+/* End hide from IE-mac */
+
+
+/* Schedule
+=====================*/
+
+#schedule h3.vevent, #schedule .vevent h3 {
+	display: block;
+	font-size: 2em;
+	color: #999;
+}
+
+#schedule .vevent .summary {
+	font-size: 1.2em;
+	color: #89ac10;
+}
+
+#schedule .vevent .speaker{
+	display: block;
+	font-size: 0.7em;
+	color: #999;
+}
+
+#schedule .vevent .catering {
+	font-size: 0.7em;
+	color: #999;
+}
+
+#subscribe img {
+	display: block;
+}
+
+
+/* Contact
+=====================*/
+
+label {
+	display: block;
+}
+
+input, textarea {
+	width: 30em;
+}
+
+#submit {
+	width: auto;
+}
+
+
+/* Location
+=====================*/
+
+
+#mainContent #places {
+	list-style: none;
+}
+#mainContent #places ul {
+	font-size: 1em;
+}
+#mainContent #places ul .vcard {
+	font-size: 1.2em;
+}
+#mainContent #places ul .hreview p.summary {
+	font-size: 1em;
+	margin-top: 0;
+}
+#mainContent #places ul .org {
+	font-weight: bold;
+	border-bottom: 1px dotted #999;
+}
+
+#mainContent #places-map {
+	width: 45%;
+	margin: 8em 2% 0;
+	height: 38em;
+	float: right;
+	border: 3px double #999;
+}
+
+#mainContent #places li {
+	width: 44%;
+	float: left;
+	margin: 0 2%;
+	border: 3px double #fff;
+}
+#mainContent #places li li {
+	width: auto;
+	float: none;
+	margin: 0;
+	border: none;
+}
+#mainContent #trains {
+	clear: both;
+	font-size: 1.2em;
+	border-collapse: collapse;
+	margin-top: 2em;
+}
+#mainContent #trains caption {
+	font-size: 2em;
+}
+#mainContent #trains tbody {
+	border-top: 1px solid #ccc;
+	border-left: 1px solid #ccc;
+	border-right: 1px solid #ccc;
+}
+#mainContent #trains tbody td {
+	border-bottom: 1px solid #ccc;
+	padding: .5em;
+	text-align: center;
+}
+#mainContent #trains .dtstart {
+	background-color: #ffc;
+}
+#mainContent #trains .dtend {
+	background-color: #ff9;
+}
+
+
+/* Location
+=====================*/
+
+input#registerbutton {
+	width: 173px;
+	height: 42px;
+	margin-top: 1em;
+}
+
+
+/* Register
+=====================*/
+
+#mainContent h2 abbr {
+	font-size: .6em;
+	position: relative;
+	top: -0.3em;
+}
+
+#countdown {
+	background: url(/images/countdown.gif) no-repeat top left;
+	height: 133px;
+	width: 369px;
+	text-shadow: 0.2em 0.2em 0.1em #999;
+	color: #fff;
+	text-align: center;
+	border: solid 1px transparent;
+	margin-top: 3em;
+}
+
+#countdown table {
+	border-collapse: collapse;
+	padding: 0;
+	margin: 1.5em auto;
+	line-height: 1;
+}
+
+#countdown td {
+	font-size: 3.5em;
+	padding: 0;
+	margin: 0;
+}
+
+#countdown th {
+	text-transform: uppercase;
+	padding-top: 0.7em;
+}
+
+
+/* Podcast
+=====================*/
+
+#episodes dt {
+	color: #999;
+}
+#episodes dt a {
+	font-weight: bold;
+}
+#episodes dd {
+	margin-bottom: 1em;
+}

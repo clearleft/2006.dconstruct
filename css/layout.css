@@ -1,0 +1,115 @@
+/*Layout
+========================*/
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.clear {
+	clear: both;
+}
+
+img,fieldset {
+	border: 0;
+}
+
+body {
+	background: url(../images/topBar.gif) repeat-x;
+	margin-top: 17px;
+}
+
+#mainNav {
+	width: 100%;
+	background: #e9f3d9 url(../images/mainNav.gif) left bottom repeat-x;
+	float: left;
+	padding-bottom: 22px;
+}
+
+#mainNav ul {
+	list-style: none;
+	margin-right: 5%;
+	float: right;
+	display: inline;
+}
+
+#mainNav li {
+	float: left;
+	padding: 0 1em;
+	height: 2em;
+}
+
+#mainNav a {
+	height: 2em;
+	display: block;
+	float: left;
+}
+
+#mainNav a:hover, #mainNav .currentPage {
+	background: url(../images/currentPage.gif) center bottom no-repeat;
+}
+
+#eventdetails {
+	width: 100%;
+	float: left;
+}
+
+ #eventdetails h1.summary a {
+	clear: both;
+	display: block;
+	text-indent: -5000px;
+	height: 87px;
+	width: 474px;
+	margin-left: 5%;
+	background: url(../images/logo.jpg) no-repeat;
+	border: none;
+	float: left;
+	display: inline;	
+}
+
+ #eventdetails div {
+	width: 236px;
+	height: 87px;
+	float: right;
+	margin-right: 5%;
+	background: url(../images/details2.gif) no-repeat;
+	text-indent: -5000px;
+	display: inline;
+}
+
+#branding {
+	height: 149px;
+	width: 100%;
+	background: url(../images/branding.jpg) center top repeat-x;
+	margin: 2em 0;
+	float: left;
+}
+
+#mainContent {
+	float: left;
+	width: 58%;
+	margin-left: 5%;
+	display: inline;
+}
+
+table {
+	margin-top: 1em;
+}
+
+#secondaryContent {
+	float: right;
+	width: 25%;
+	margin-right: 5%;
+	display: inline;
+}
+
+#footer {
+	clear:both;
+	background: #f6f4e7 url(../images/footer.gif) left top repeat-x;
+	padding-top: 60px;
+	height: 10em;
+}
+
+#footer li {
+	display: inline;
+}

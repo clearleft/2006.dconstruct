@@ -1,0 +1,116 @@
+/* Typography
+========================*/
+
+body {
+	font: 62.5%/1.6 "Lucida Grande","Trebuchet MS","Tahoma","Helvetica","Arial",sans-serif;
+	color: #4d4d4d;
+}
+
+h1, h2, h3 {
+	font-size: 2.4em;
+	color: #89ac10;
+	font-weight: normal;
+}
+
+p, h2, h3 {
+	margin-top: 1em;
+}
+
+h3 {
+	font-size: 2.0em;
+}
+
+a:link, a:visited {
+	color: #89ac10;
+	text-decoration: none;
+	border-bottom: 1px #89ac10 dotted;
+}
+
+a:hover, a:active {
+	color: #666;
+	border-bottom: 1px #666 solid;
+}
+
+abbr {
+	border: none;
+}
+
+#mainNav {
+	font-size: 1.8em;
+	color: #4d4d4d;
+}
+
+#mainNav a:link, #mainNav a:visited, #mainNav a:hover, #mainNav a:active {
+	border-bottom: none;
+}
+
+#eventdetails {
+	font-size: 2.0em;
+	color: #89ac10;
+	line-height: 1.2;
+	font-weight: bold;
+}
+
+#eventdetails .locaton {
+	color: #999;
+}
+
+#eventdetails a:link, #eventdetails a:visited {
+	border-bottom: none;
+}
+
+
+#mainContent p,
+#mainContent dl,
+#mainContent ul {
+	font-size: 1.5em;
+}
+
+p#intro {
+	font-weight: bold;
+	color: #666;
+}
+
+#mainContent ul {
+	list-style: none;
+	margin-top: 1em;
+}
+
+legend {
+	font-size: 1.6em;
+	color: #89ac10;
+	font-weight: normal;
+	margin-top: 1em;
+}
+
+#secondaryContent p, #footer {
+	font-size: 1.3em;
+}
+
+table {
+	font-size: 1.5em;
+}
+
+#mainContent .smallprint {
+	font-size: 1.2em;
+	color: #777;
+	margin-top: 4em;
+}
+
+.presentation-info {
+	padding: 0.5em 1em;
+	margin: 2em 0;
+	border: 2px solid #fee03a;
+	background: #fffdda;
+	color: #888;
+}
+
+.presentation-info p {
+	margin-top: 0;
+}
+
+
+#footer {
+	text-align: center;
+}
+

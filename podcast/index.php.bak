@@ -1,0 +1,106 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Podcast - d.Construct 2006: Web Application and Web 2.0 Conference</title>
+<?php include "../includes/meta.php"; ?>
+</head>
+<body>
+
+<?php include "../includes/mainnav.php"; ?>
+
+<?php include "../includes/vevent.php"; ?>
+
+<div id="branding"></div><!-- /branding -->
+
+<div id="mainContent">
+
+<h2>Podcast</h2>
+
+<p class="vcard"><img class="photo" src="images/jeremy.jpg" alt="Jeremy Keith with a microphone" title="Photo by Faruk Ateş" />All the sessions at d.Construct 2006 were recorded and we'll be releasing them via our podcast over the coming weeks. In the meantime, why not subscribe to the podcast and check out the pre-event episodes hosted by <a class="fn url" href="http://adactio.com/">Jeremy Keith</a>.</p>
+
+<!-- <p class="vcard"><img class="photo" src="images/jeremy.jpg" alt="Jeremy Keith with a microphone" title="Photo by Faruk Ateş" /> We've started a podcast to get you in the mood for d.Construct 2006. Expect plenty of short, sharp episodes in the run-up to this year's event. The podcast is hosted by <a class="fn url" href="http://adactio.com/">Jeremy Keith</a>. He'll be talking to speakers and attendees as well as discussing the themes of d.Construct 2006.</p>
+
+<p><a href="http://odeo.com/sendmeamessage/JeremyKeith"><img alt="Send Me A Message" src="http://odeo.com/img/badge-send-me-med-green.gif" style="float: right;" /></a> We want to hear from you. <a href="http://odeo.com/sendmeamessage/JeremyKeith">Record a message</a> and tell us what you're hoping to get out of d.Construct 2006.</p>-->
+
+<p>Subscribe to the d.Construct 2006 podcast:</p>
+
+<ul>
+<li><a href="index.xml">Via our RSS feed</a></li>
+<li><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=167321762">Via iTunes</a></li>
+<li><a href="http://odeo.com/channel/112541/">Via Odeo</a></li>
+<li><a href="pcast://2006.dconstruct.org/podcast/index.xml">Directly with iTunes</a></li>
+</ul>
+
+<h3>Episodes</h3>
+
+<dl id="episodes">
+<dt><a href="http://2006.dconstruct.org/podcast/JeffreyVeen2.mp3">Jeffrey Veen</a> 44:33</dt>
+<dd>Designing the Complete User Experience</dd>
+<dt><a href="http://2006.dconstruct.org/podcast/ThomasVanderWal.mp3">Thomas Vander Wal</a> 45:09</dt>
+<dd>Understanding Folksonomy</dd>
+<dt><a href="http://2006.dconstruct.org/podcast/DerekFeatherstone2.mp3">Derek Featherstone</a> 48:00</dt>
+<dd>Accessible Web Applications in a Post Web 1.0 World</dd>
+<dt><a href="http://2006.dconstruct.org/podcast/AralBalkan2.mp3">Aral Balkan</a> 37:56</dt>
+<dd>Mash My Flex Up</dd>
+<dt><a href="http://2006.dconstruct.org/podcast/JeremyKeith.mp3">Jeremy Keith</a> 40:08</dt>
+<dd>The Joy of API</dd>
+<dt><a href="http://2006.dconstruct.org/podcast/HammondWillison.mp3">Paul Hammond and Simon Willison</a> 41:46</dt>
+<dd>Web Services for Fun and Profit</dd>
+<dt><a href="http://2006.dconstruct.org/podcast/jeffbarr.mp3">Jeff Barr</a> 47:04</dt>
+<dd>Web Services: Fuelling Innovation and Entrepreneurship.</dd>
+<dt><a href="http://www.archive.org/download/ClearleftThedaybefore_0/thedaybefore.mp3">The day before</a> 9:34</dt>
+<dd>A quick chat with Andy Budd and the Clearleft office dalek. Plus some more Odeo messages.</dd>
+<dt><a href="http://www.archive.org/download/ClearleftOpenStreetMap/openstreetmap.mp3">OpenStreetMap</a> 10:34</dt>
+<dd><a href="http://brainoff.com/">Mikel Maron</a> from <a href="http://www.openstreetmap.org/">OpenStreetMap</a> gives the lowdown on the workshop taking place the day after d.Construct. Also, I finally got some Odeo messages.</dd>
+<dt><a href="http://www.archive.org/download/ClearleftBarcamp/barcamp.mp3">Barcamp</a> 17:21</dt>
+<dd>Barcamp London is taking place at the offices of Yahoo! I took some time to harrass the attendees for some soundbites.</dd>
+<dt><a href="http://www.archive.org/download/ClearleftBacknetwork/backnetwork.mp3">Backnetwork</a> 16:09</dt>
+<dd>Glenn Jones from Madgex is back to talk about the wonderful <a href="http://dconstruct06.madgex.com/">d.Construct Backnetwork</a>. We talk about microformats, APIs, and sharing data.</dd>
+<dt><a href="http://www.archive.org/download/ClearleftRoundup/roundup.mp3">Roundup</a> 11:44</dt>
+<dd>Things to do in Brighton when you're a geek. Here's the lowdown on what you can expect at d.Construct 2006.</dd>
+<dt><a href="http://www.archive.org/download/ClearleftTomHume/tomhume.mp3">Tom Hume</a> 11:09</dt>
+<dd>One of last year's speakers discusses the mobile web and APIs.</dd>
+<dt><a href="http://www.archive.org/download/ClearleftSnipperoo/snipperoo.mp3">Snipperoo</a> 14:09</dt>
+<dd>Jay Gooby and Ivan Pope talk about their new start-up. More importantly, they spill the beans on the plans for the d.Construct after-party.</dd>
+<dt><a href="http://www.archive.org/download/ClearleftDerekFeatherstone/derekfeatherstone.mp3">Derek Featherstone</a> 12:59</dt>
+<dd>A transatlantic conversation with Canadian accessibility expert <a href="http://www.boxofchocolates.ca/">Derek Featherstone</a>. Find out what he'll be talking about at d.Construct 2006.</dd>
+<dt><a href="http://www.archive.org/download/ClearleftCameronAdams/cameronadams.mp3">Cameron Adams</a> 10:24</dt>
+<dd><a href="http://themaninblue.com/">The Man In Blue</a> talks about his excellent book, the web standards scene in Australia, and the fun you can have with APIs.</dd>
+<dt><a href="http://www.archive.org/download/ClearleftGlennJones/glennjones.mp3">Glenn Jones</a> 7:49</dt>
+<dd>Glenn Jones from Madgex software discusses APIs, programming, the Brighton scene, and d.Construct.</dd>
+<dt><a href="http://www.archive.org/download/ClearleftJeffreyVeen/jeffreyveen.mp3">Jeffrey Veen</a> 13:22</dt>
+<dd>From Webmonkey to Google via Adaptive Path. Jeff Veen charts how the Web has changed and how design needs to change with it.</dd>
+<dt><a href="http://www.archive.org/download/ClearleftAralBalkan/aralbalkan.mp3">Aral Balkan</a> 15:29</dt>
+<dd>After his triumphant performance at last year's d.Construct, <a href="http://aralbalkan.com/">Aral Balkan</a> is back again this year to talk about Flex 2. He's on a mission to debunk some of the myths surrounding Flash.</dd>
+<dt><a href="http://www.archive.org/download/ClearleftWSGLondon/wsglondon.mp3">WSG London</a> 11:49</dt>
+<dd>The inaugural <a href="http://muffinresearch.co.uk/wsg/">London Web Standards Group event</a> went off wonderfully. Andy Budd and Christian Heilmann presented. I took the opportunity to talk to some of the geeks in attendance.</dd>
+<dt><a href="http://www.archive.org/download/ClearleftLookingback/lookingback.mp3">Looking back</a> 11:00</dt>
+<dd>In preparation for d.Construct 2006, here's a brief overview of some of the presentations from d.Construct 2005.</dd>
+</dl>
+
+<p>
+<!--Creative Commons License--><a rel="license" href="http://creativecommons.org/licenses/by-nc/2.5/"><img alt="Creative Commons License" src="http://creativecommons.org/images/public/somerights20.png"/></a><br/>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/2.5/">Creative Commons Attribution-NonCommercial 2.5  License</a>.<!--/Creative Commons License--><!-- <rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<Work rdf:about="">
+		<license rdf:resource="http://creativecommons.org/licenses/by-nc/2.5/" />
+	<dc:type rdf:resource="http://purl.org/dc/dcmitype/Sound" />
+	</Work>
+	<License rdf:about="http://creativecommons.org/licenses/by-nc/2.5/"><permits rdf:resource="http://web.resource.org/cc/Reproduction"/><permits rdf:resource="http://web.resource.org/cc/Distribution"/><requires rdf:resource="http://web.resource.org/cc/Notice"/><requires rdf:resource="http://web.resource.org/cc/Attribution"/><prohibits rdf:resource="http://web.resource.org/cc/CommercialUse"/><permits rdf:resource="http://web.resource.org/cc/DerivativeWorks"/></License></rdf:RDF> -->
+</p>
+
+<p>The music is <a href="http://www.garageband.com/song?|pe1|S8LTM0LdsaSkYVW2ZGg">Sychophantastic</a> by Brighton band, <a href="http://www.garageband.com/artist/Tailspin">Tailspin</a>.</p>
+
+
+</div><!-- /mainContent -->
+
+<div id="secondaryContent">
+
+<?php include "../includes/sponsors.php"; ?>
+
+</div><!-- /secondaryContent -->
+
+<?php include "../includes/footer.php"; ?>
+
+</body>
+</html>
