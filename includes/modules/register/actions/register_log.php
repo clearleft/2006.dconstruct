@@ -1,5 +1,4 @@
-<?
-
+<?php 
 if (!@mysql_connect('localhost','clagnut','Kathhuv7')) {
 	die(mysql_error());
 }

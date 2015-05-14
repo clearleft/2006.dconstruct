@@ -1,5 +1,4 @@
-<?
-
+<?php 
 function checkInput($data=array(),$criteria=array()) {
 
 	$return = array();

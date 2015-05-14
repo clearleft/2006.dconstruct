@@ -1,5 +1,4 @@
-<?
-
+<?php 
 $floodgates = strtotime("September 8, 2006 9:00 BST");
 
 $now = time();

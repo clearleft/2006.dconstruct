@@ -1,5 +1,4 @@
-<?
-
+<?php 
 function displayFieldset($legend,$fields=array(),$data=array(),$errors=array()) {
 
 	$return = "<fieldset>\n";

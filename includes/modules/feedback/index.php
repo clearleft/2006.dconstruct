@@ -1,5 +1,4 @@
-<?
-
+<?php 
 $return = "";
 
 $return.= "<div id=\"feedbackcanvas\">\n";

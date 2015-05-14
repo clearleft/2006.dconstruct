@@ -1,6 +1,6 @@
 <div id="mainNav">
 <ul>
-<?
+<?php
 echo "<li";
 if ($_SERVER['PHP_SELF'] == "/index.php") {
 	echo " class=\"currentPage\">Home";

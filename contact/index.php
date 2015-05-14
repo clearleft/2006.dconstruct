@@ -4,13 +4,13 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Contact - d.Construct 2006: Web Application and Web 2.0 Conference</title>
-<? include "../includes/meta.php"; ?>
+<?php include "../includes/meta.php"; ?>
 </head>
 <body>
 
-<? include "../includes/mainnav.php"; ?>
+<?php include "../includes/mainnav.php"; ?>
 
-<? include "../includes/vevent.php"; ?>
+<?php include "../includes/vevent.php"; ?>
 
 <div id="branding"></div><!-- /branding -->
 
@@ -18,17 +18,17 @@
 
 <h2>Contact Us</h2>
 
-<? include "../includes/modules/feedback/index.php"; ?>
+<?php include "../includes/modules/feedback/index.php"; ?>
 
 </div><!-- /mainContent -->
 
 <div id="secondaryContent">
 
-<? include "../includes/sponsors.php"; ?>
+<?php include "../includes/sponsors.php"; ?>
 
 </div><!-- /secondaryContent -->
 
-<? include "../includes/footer.php"; ?>
+<?php include "../includes/footer.php"; ?>
 
 </body>
 </html>

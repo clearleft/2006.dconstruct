@@ -1,5 +1,4 @@
-<?
-
+<?php 
 $signups = 0;
 $allocation = 285;
 

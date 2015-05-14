@@ -1,5 +1,4 @@
-<?
-
+<?php 
 $output = "";
 
 if (!empty($_REQUEST["email"]) && stristr($_REQUEST["email"]," ")) {
